@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 70%;
@@ -30,4 +31,12 @@ section{
     border-radius: 6px;}
     .top-corner{
         background-image: url(Images/top-corner-one.png);
+        background-position: left;
+        background-repeat: no-repeat;
+    }
+    .dream{
+        color: magenta;
+    }
+    .web{
+        color: tomato;
     }
