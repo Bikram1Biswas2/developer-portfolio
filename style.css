@@ -40,3 +40,19 @@ section{
     .web{
         color: tomato;
     }
+    .flexible-container{
+        display: flex;
+        margin-bottom: 150px;
+    }
+.experiences-item{
+    box-shadow: 10px 15px 40px greenyellow;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 5px;
+    border-left: 5px solid red;
+}
+#blue{
+    border-left: 5px solid blue;
+}
