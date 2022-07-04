@@ -1,0 +1,33 @@
+body{
+    font-family: 'Finlandica', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 45px;
+}
+.color{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 70%;
+    padding-bottom: 60px;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+    padding-bottom: 30px;
+    border-radius: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 6px;}
+    .top-corner{
+        background-image: url(Images/top-corner-one.png);
+    }
